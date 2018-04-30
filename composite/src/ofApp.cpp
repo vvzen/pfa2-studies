@@ -107,7 +107,7 @@ void ofApp::draw(){
 // Load the points into the given mesh.
 // @args
 //      influence_mesh: a mesh which will store the influence points (used to draw them)
-//      influence_points: a vector of which will store additional data about those point (pos, name, weight)
+//      influence_points: a vector of a custom data structure which will store additional data about those point (pos, name, weight)
 //      scale: a scale factor to be applied to the point coordinates
 // @return
 //      ofVec3f, the centroid of the geo created

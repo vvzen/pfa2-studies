@@ -1,0 +1,5 @@
+# Required addons
+
+ofxImGui
+
+ofxJSON
