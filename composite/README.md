@@ -12,8 +12,8 @@ ofxJSON
 # Extras
 Additional photos from the final SLA print
 
-![sla-print1](extra/sla-print1.jpg)
+![sla-print1](extra/sla-print-1.jpg)
 
-![sla-print3](extra/sla-print3.JPG)
+![sla-print3](extra/sla-print-3.jpg)
 
-![sla-print2](extra/sla-print2.JPG)
+![sla-print2](extra/sla-print-2.jpg)
