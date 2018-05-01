@@ -1,5 +1,6 @@
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
     @title : Study 3 - Data Driven
+    @notes : the resulting lines are somewhat far away on the positive X axis
     @author: vvz3n
 /* ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++*/
 
@@ -92,19 +93,6 @@ void setupGUI(){
   cp5.addSlider("param_B")
       .setId(2)
       .setPosition(10,220)
-      .setSize(128,16)
-      .setRange(0,256);
-
-  // float sliders
-  cp5.addSlider("param_C")
-     .setId(3)
-     .setPosition(10,240)
-     .setSize(128,16)
-     .setRange(0,256);
-
-  cp5.addSlider("param_D")
-      .setId(4)
-      .setPosition(10,260)
       .setSize(128,16)
       .setRange(0,256);
 
